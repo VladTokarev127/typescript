@@ -6,3 +6,4 @@ https://www.udemy.com/course/typescript-full/
 2. Продвинутые типы
 3. Классы
 4. Компилятор TypeScript
+5. Generics
