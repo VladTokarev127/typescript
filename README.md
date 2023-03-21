@@ -8,3 +8,4 @@ https://www.udemy.com/course/typescript-full/
 4. Компилятор TypeScript
 5. Generics
 6. Манипуляция с типами
+7. Служебные типы
